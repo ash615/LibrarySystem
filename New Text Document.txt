@@ -1,0 +1,19 @@
+1. Captcha
+2. Admin Login & Signup
+3. Admin Change Password
+4. Student Login & Signup
+5. Student Change Password
+6. Student Forget Password
+7. Check Availability(This is to check email) - For admin and student
+8. Logout
+9. Student Profile
+10. Admin Dashboard
+11. Student Dashboard
+12. Student Issued Books
+13. Add & Manage Authors & Edit Author
+14. Add & Manage Books & Edit Book
+15. Add & Manage Categories & Edit Category
+16. Issue and Manage Issued Books
+17. Update Issue Bookdetails
+18. Registered Students
+19. Config, Header, Footer
